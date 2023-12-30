@@ -7,4 +7,10 @@
         height: 100%;
         @apply bg-blue-200
     }
+    
+    .btn{
+        @apply bg-[#beabed] text-white px-3 py-2  rounded-md text-sm text-white;
+    }
 }
+
+
